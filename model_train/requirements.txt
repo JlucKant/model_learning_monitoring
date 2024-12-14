@@ -1,0 +1,7 @@
+numpy
+pandas
+keras
+tensorflow
+prometheus_client
+scikit-learn
+psutil

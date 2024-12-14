@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 1s  
+
+scrape_configs:
+  - job_name: 'model_train'
+    static_configs:
+      - targets: ['model_train:5000'] 
